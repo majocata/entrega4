@@ -1,0 +1,25 @@
+.an {
+	position: absolute;
+	background-color: white;
+	font-family: 'Fascinate', cursive;
+    font-size: 450%;
+	top: 2%;
+	left: 33%;
+	height:0%;
+}
+.an1 {
+	position: absolute;
+	top: 17%;
+	left: 5%;
+	height:10%;
+	width: 10%;
+	background-size: cover;
+}
+.an2 {
+	position: absolute;
+	top: 52%;
+	left: 76%;
+	height:10%;
+	width: 10%;
+	background-size: cover;
+}
